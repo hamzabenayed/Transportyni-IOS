@@ -28,7 +28,7 @@ Ensure you have the following installed:
 ### Steps to Run the Project
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/your-ios-repo.git
+   git clone https://github.com/hamzabenayed/Transportyni-IOS.git
    cd your-ios-repo
    ```
 2. **Install dependencies**
