@@ -67,9 +67,10 @@ Contributions are welcome! If you’d like to improve the project, follow these 
 3. Make your changes and commit them.
 4. Push to your fork and submit a Pull Request.
 
-## 📝 License
-This project is licensed under the **MIT License**.
+## 📬 Contact
+📩 **Hamza Ben Ayed**  
+📌 [LinkedIn](https://www.linkedin.com/in/hamza-ben-ayed-307ab223b/)  
+📧 Email: hamzabenayed2000@gmail.com
 
 ---
-
-💡 *Have any questions or suggestions? Feel free to reach out!*
+🔹 *This project is open-source. Contributions and suggestions are welcome!* 🚀
